@@ -27,9 +27,27 @@ a:hover{
 }
 
 #menu {
-  display: inline;
+  border: solid 2px black;
+  display: flex;
+  width: 75%;
+  background-color: orange;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
 
+#contents {
+  border: solid 2px black;
+  font-size: 18px;
+  width: 20%;
+  background-color:#CC9966;
+  padding: 10px 20px 10px 20px;
+  margin: 0px 0px 0px 0px;
+}
+
+#works{
+  padding: 0px 0px 20px 0px;
+}
 
 .zirtaro {
     background-color: white;
