@@ -49,12 +49,26 @@ a:hover{
   padding: 0px 0px 20px 0px;
 }
 
+
+.option{
+  border: solid 1px black;
+  padding: 10px 0px 0px 0px;
+  width: 25%;
+  margin: 10px auto;
+}
+
 .zirtaro {
     background-color: white;
     margin-top: 20px;
     margin-bottom: -10px;
     border: solid 5px black;
     border-radius: 50%;
+}
+
+.jankenimg {
+  border: solid 1px black;
+  background-color: white;
+  margin: 0px auto;
 }
 
 .nutria {
